@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+.box {
+  background:url(img/background.jpg);
+  height:30vw;
+  padding-top: 110px;
+  color:white;
+  width:60vw;
+}
+
+#simple {
+  text-align: center;
+}
+#try {
+  text-align: center;
+}
+#personal {
+  height:17vw;
+  width:25vw;
+  right:auto;
+  color: green;
+
+
+}
+
+main section {
+  
+}
