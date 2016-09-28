@@ -1,6 +1,6 @@
 *{
   box-sizing: border-box;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
 }
 
 .box {
@@ -21,11 +21,44 @@
   height:17vw;
   width:25vw;
   right:auto;
-  color: green;
+  color: black;
 
+  }
+
+
+.column-header {
+  background-color: green;
+  color: white;
+  text-align: center;
+  font-size: 20px;
 
 }
 
+.column-small {
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.column-enterprise {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
 main section {
-  
+  width:auto;
+  display:inline-block;5;
+
+}
+.column-free {
+  background-color: gray;
+
+}
+.column-setup {
+  background-color: gray;
+}
+.column-custom {
+  background-color: gray;
 }
