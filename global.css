@@ -6,9 +6,11 @@
 .box {
   background:url(img/background.jpg);
   height:20vw;
-  padding-top: 110px;
+  padding-top: 90px;
   color:white;
   width:70vw;
+  font-size: 20px;
+
 }
 
 #simple {
@@ -77,24 +79,60 @@ button {
 }
 #start {
   font-size: 15px;
+  text-align: left;
+  padding-left: 50px;
 }
 .lor-class {
   text-align: center;
   font-size: 12px;
   display: block;
   width: 40%;
-  padding-left: 30px;
+  padding-left: 50px;
 }
 #monthly {
   font-size: 15px;
+  text-align: left;
+  padding-left: 50px;
+
 }
 #support {
   font-size: 15px;
+  text-align: left;
+  padding-left: 50px;
+
 }
 #cancel {
   font-size: 15px;
+  text-align: left;
+  padding-left: 50px;
 }
-
+#five {
+  font-size: 40px;
+}
+#twenty-five {
+  font-size: 40px;
+}
+#fourty-five {
+  font-size: 40px;
+}
+#first-paragraph {
+  text-align: left;
+  padding-left: 50px;
+}
+#paragraph-two {
+  text-align: left;
+  padding-left: 50px;
+  width:auto;
+  display: inline-block;
+}
+#paragraph-three {
+  text-align: left;
+  padding-left: 50px;
+}
+#paragraph-four {
+  text-align: left;
+  padding-left: 50px;
+}
 }
 .lo {
   text-align: center;
@@ -115,8 +153,10 @@ button {
 }
 .foot {
   background-color: black;
-  padding-top: 50px;
+  padding-top: 15px;
   color: white;
   text-align: center;
-  font-size: 18px;
+  width: 70vw;
+  font-size: 10px;
+
 }
