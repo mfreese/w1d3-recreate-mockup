@@ -5,10 +5,10 @@
 
 .box {
   background:url(img/background.jpg);
-  height:30vw;
+  height:20vw;
   padding-top: 110px;
   color:white;
-  width:60vw;
+  width:70vw;
 }
 
 #simple {
@@ -22,6 +22,7 @@
   width:25vw;
   right:auto;
   color: black;
+  padding-left: 50px;
 
   }
 
@@ -39,6 +40,8 @@
   color: white;
   text-align: center;
   font-size: 20px;
+
+
 }
 
 .column-enterprise {
@@ -46,19 +49,74 @@
   color: white;
   text-align: center;
   font-size: 20px;
+
 }
 main section {
-  width:auto;
+  width: auto;
   display:inline-block;5;
+  text-align: center;
 
 }
 .column-free {
-  background-color: gray;
+  background-color: lightgray;
+  display: table;
 
 }
 .column-setup {
-  background-color: gray;
+  background-color: lightgray;
 }
 .column-custom {
-  background-color: gray;
+  background-color: lightgray;
+}
+button {
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: white;
+
+}
+#start {
+  font-size: 15px;
+}
+.lor-class {
+  text-align: center;
+  font-size: 12px;
+  display: block;
+  width: 40%;
+  padding-left: 30px;
+}
+#monthly {
+  font-size: 15px;
+}
+#support {
+  font-size: 15px;
+}
+#cancel {
+  font-size: 15px;
+}
+
+}
+.lo {
+  text-align: center;
+  font-size: 12px;
+  margin-left: 5px;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.lore {
+  text-align: center;
+  font-size: 10px;
+  display: block;
+  width: 40%;
+
+}
+.get-started {
+  text-align: left;
+}
+.foot {
+  background-color: black;
+  padding-top: 50px;
+  color: white;
+  text-align: center;
+  font-size: 18px;
 }
